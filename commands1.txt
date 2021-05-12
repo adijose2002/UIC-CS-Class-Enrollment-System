@@ -1,0 +1,16 @@
+l cs111
+enroll cs111 atest98
+e cs111 ztest97
+e cs252 ztest97
+enroll cs152 atest98
+l cs111
+l cs251
+enroll cs251 psarkar3
+e cs251 skim4
+enroll cs251 astriky2
+enroll cs151 nowayokay
+e cs251 skim7
+e cs251 skim4
+l cs251
+l cs151
+quit
